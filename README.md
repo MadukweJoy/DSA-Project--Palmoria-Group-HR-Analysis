@@ -1,4 +1,4 @@
-# Palmora Group HR Analysis 
+# Palmoria Group HR Analysis 
 
 ## Table of Contents
 -	[Project Overview](#Product-Overview)
@@ -18,8 +18,8 @@ The primary dataset used for this analysis are the ‘Palmoria_data.csv and Palm
 
 ### Dataset Description
 The dataset contains information scraped from Palmoria group HR including: 
-Employee; name, gender, department, salary, location, rating
-Rating; very poor, poor, average, good and very good
+- Employee; name, gender, department, salary, location and rating.
+- Rating; very poor, poor, average, good and very good.
 
 ### Tools
 Power Business Intelligence
