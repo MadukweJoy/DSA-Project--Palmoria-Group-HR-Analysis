@@ -6,7 +6,6 @@
 -	[Dataset Description](#Dataset-Description)
 -	[Tools](#Tools)
 -	[Exploratory Data Analysis](#Exploratory-Data-Analysis)
--	[Data Analysis]( #Data-Analysis)
 -	[Results/Findings](#Results/Findings)
 -	[Recommendation](#Recommendation)
   
@@ -36,8 +35,6 @@ EDA involved exploring the Palmoria Group HR data to answer key questions such a
 5.	What is the amount to be paid as a bonus to individual employees? 
 -	What is the total amount to be paid to individual employees (salary inclusive of bonus)?
 -	What is the amount to be paid out per region and company-wide?
-  
-### Data Analysis
 
 ### Results/Findings
 The analysis results are summarized as follows:
