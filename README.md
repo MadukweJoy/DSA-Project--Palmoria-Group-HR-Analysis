@@ -11,7 +11,7 @@
 -	[Recommendation](#Recommendation)
   
 ### Project Overview
-This data analysis project aims to provide e-commerce analytic solution on gender-related issues within Palmoria group organization and its regions, to analyze the company’s data and generate insights that the management team would need to address the gender pay gap and bring about gender equality.
+This data analysis project aims to provide analytic solution on gender-related issues within Palmoria group organization and its regions, to analyze the company’s data and generate insights that the management team would need to address the gender pay gap and bring about gender equality.
 
 ### Data Source
 The primary dataset used for this analysis are the ‘Palmoria_data.csv and Palmoria_group_bonus_rules.excel” file, containing detailed information about the employees and bonus amount based on rating.
