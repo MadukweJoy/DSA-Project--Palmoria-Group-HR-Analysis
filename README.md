@@ -4,25 +4,25 @@
 -	[Project Overview](#Product-Overview)
 -	[Data Source](#Data-Source)
 -	[Dataset Description](#Dataset-Description)
--	[Tools](#Tools)
+-	[Tool Used](#Tools-Used)
 -	[Exploratory Data Analysis](#Exploratory-Data-Analysis)
 -	[Results/Findings](#Results/Findings)
--	[Recommendation](#Recommendation)
+-	[Recommendations](#Recommendations)
   
 ### Project Overview
 This data analysis project aims to provide analytic solution on gender-related issues within Palmoria group organization and its regions, to analyze the company’s data and generate insights that the management team would need to address the gender pay gap and bring about gender equality.
 
 ### Data Source
-The primary dataset used for this analysis are the ‘Palmoria_data.csv and Palmoria_group_bonus_rules.excel” file, containing detailed information about the employees and bonus amount based on rating.
+The primary dataset used for this analysis are the ‘Palmoria_data.csv and Palmoria_group_bonus_rules.xlsx” file, containing detailed information about the employees and bonus amount based on rating.
 
 ### Dataset Description
 The dataset contains information scraped from Palmoria group HR including: 
 - Employee; name, gender, department, salary, location and rating.
 - Rating; very poor, poor, average, good and very good.
 
-### Tools
-Power Business Intelligence
-- Data cleaning, analysis and creating report.
+### Tool Used
+- Microsoft Power Business Intelligence
+  - Data cleaning, analysis and creating report.
 
 ### Exploratory Data Analysis
 EDA involved exploring the Palmoria Group HR data to answer key questions such as:
@@ -43,5 +43,5 @@ Palmoria Group has over 69% of their staff below the minimum salary of $90,000, 
 
 <img width="910" alt="Image" src="https://github.com/user-attachments/assets/3dbe727c-9949-44cc-8f6f-dfb215418369" />
 
-### Recommendation
+### Recommendations
 Based on the analysis we recommend that there should be a total review of the salary across all regions regardless of the Gender and the rating shouldn’t be used as a benchmark for salary increment.
